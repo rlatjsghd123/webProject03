@@ -274,8 +274,8 @@ body{
 .content4 > .content4_inner
 {
     position: absolute;
-    top: 50%;
-    left: 20%;
+    bottom: -10%;
+    left: 10%;
     transform: translateX(-50%);
     transform: translateY(-50%);
     opacity: 0;
@@ -285,7 +285,7 @@ body{
 .content2 > .content2_inner>h2,
 .content3 > .content3_inner>h2,
 .content4 > .content4_inner>h2{
-    font-size: 46px;
+    font-size: 35px;
     letter-spacing: -2px;
     line-height: 1.4;
 }
